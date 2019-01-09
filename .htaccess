@@ -1,0 +1,8 @@
+Options +FollowSymLinks
+RewriteEngine on
+
+RewriteRule ^25$ http://www.google.be/image [R=302,NC,NE,L]
+RewriteRule ^35$ http://www.google.be/ima [R=302,NC,NE,L]
+RewriteRule ^45$ http://www.google.be/tese [R=302,NC,NE,L]
+RewriteRule ^55$ http://www.google.be/yolo [R=302,NC,NE,L]
+RewriteRule ^65$ http://www.google.be/swag [R=302,NC,NE,L]
